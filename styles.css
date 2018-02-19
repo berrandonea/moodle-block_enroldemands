@@ -1,0 +1,7 @@
+.block_enrol_demands li { clear: both; }
+.block_enrol_demands li .column { width: 100%; }
+.block_enrol_demands li .buttons { float: right; margin: 0; }
+.dir-rtl .block_enrol_demands li .buttons { float: left; }
+.block_enrol_demands li .buttons a img{ vertical-align: text-bottom;}
+.block_enrol_demands .footer { margin-top: 1em; }
+.block_enrol_demands .section_add_menus noscript div { display: inline;}
